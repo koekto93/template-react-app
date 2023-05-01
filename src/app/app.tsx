@@ -19,7 +19,7 @@ export const App = () => (
               fontWeight: 600,
               fontSize: 40,
             }}>
-            Crypto Space Map HERE
+            Template
           </div>
         )}
       />
